@@ -23,13 +23,11 @@
 * Random Forest with GridSearchCV
 * Neural Network with 3 Dense Layer
 
-## Results
-
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie4.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie5.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie7.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie9.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie10.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie11.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie12.JPG)
-![image](https://github.com/PatrickSchuetten/final_project/blob/master/plots/readme/presentation/Folie13.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie4.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie5.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie7.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie9.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie10.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie11.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie12.JPG)
+![image](https://github.com/PatrickSchuetten/final_project/blob/master/slides/presentation_direction_dax/Folie13.JPG)
