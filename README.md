@@ -1,4 +1,4 @@
-# Predicting the direction of the DAX by using indicators
+# Predicting the Direction of Financial Markets by using Indicators
 
 ## Objective
 * Predict the direction of a finance market for a single day by just using indicators
